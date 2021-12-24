@@ -1,0 +1,12 @@
+.li {
+  display: flex;
+  flex-direction: column;
+  font-size: large;
+  justify-content: center;
+  align-items: center;
+  box-shadow: lavender;
+  display: inline-block;
+  list-style: circle;
+  outline: 1px solid;
+  border-radius: 2px;
+}
